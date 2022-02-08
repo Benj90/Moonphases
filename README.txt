@@ -1,4 +1,4 @@
-httpOpen a terminal 
+Open a terminal 
 
 If running the project on a new computer, install node, install git, and run
 Npm install -g http-server
@@ -9,7 +9,7 @@ Cd~/Desktop/p5/moonphase
 
 Then run it with 
 Http-server -c-1
-Then point your browser at http://localhost:8080/
+Then point your browser at http://localhost:8081/
 
 server info - https://github.com/processing/p5.js/wiki/Local-server
 github video by Daniel Schiffman : https://www.youtube.com/watch?v=BCQHnlnPusY
