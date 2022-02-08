@@ -1,8 +1,11 @@
-httpOpen a terminal 
+# Moonphase
+
+## running p5 application
+
+Open a terminal 
 
 If running the project on a new computer, install node, install git, and run
-Npm install -g http-server
-
+Npm install -g htt
 Navigate to this project
 
 Cd~/Desktop/p5/moonphase
